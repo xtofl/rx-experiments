@@ -9,6 +9,14 @@
             "options": {
                 "cwd": "build"
             },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": true
+            },
             "command": "make",
             "problemMatcher": [
                 "$gcc"
