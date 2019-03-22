@@ -1,5 +1,7 @@
 [requires]
 rxcpp/4.1.0@bincrafters/stable
+boost_asio/1.66.0@bincrafters/stable
 
 [generators]
 cmake
+
